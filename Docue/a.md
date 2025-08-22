@@ -53,3 +53,5 @@ Effecon has park mark.
 Effecon has park cross.
 
 Effecon has major.
+
+Effecon is total most gain.
