@@ -54,6 +54,10 @@ Effecon has park cross.
 
 Effecon has major.
 
+Effecon has major on game.
+
+Effecon is base on Gain.
+
 Effecon is total most gain.
 
 Effecon is total park.
