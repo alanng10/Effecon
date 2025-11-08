@@ -61,3 +61,5 @@ Effecon is base on Gain.
 Effecon is total most gain.
 
 Effecon is total park.
+
+Effecon is worth gain.
